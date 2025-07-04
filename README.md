@@ -1,4 +1,4 @@
-# 🔥 TV-B-Gone ESP8266 | Wemos D1 Mini Edition 🔥
+# 🔥 DIY TV-B-GONE HackTool | ESP8266 IR Remote Blaster 🔥
 
 Hack semua TV hanya dengan satu tombol!  
 TV-B-Gone ini dibangun menggunakan ESP8266 (Wemos D1 Mini) dan bisa mematikan hampir semua merek TV populer dalam waktu singkat.
