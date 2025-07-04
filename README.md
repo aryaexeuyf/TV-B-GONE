@@ -3,7 +3,7 @@
 Hack semua TV hanya dengan satu tombol!  
 TV-B-Gone ini dibangun menggunakan ESP8266 (Wemos D1 Mini) dan bisa mematikan hampir semua merek TV populer dalam waktu singkat.
 
-![TV-B-Gone Skema](./BGONE) <!-- Ganti ini sesuai link gambar skema -->
+![TV-B-Gone Skema](./BGONE.png) <!-- Ganti ini sesuai link gambar skema -->
 
 ---
 
