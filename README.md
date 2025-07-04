@@ -76,6 +76,31 @@ https://saweria.co/rcprojectskyproject
 
 ---
 
+## 🧨 PENTING UNTUK FLASHING & MODIFIKASI
+
+Jika kamu hanya ingin langsung pakai,  
+silakan **download file firmware `.bin`** dari halaman [📦 Releases](https://github.com/USERNAME/REPO-NAME/releases) yang sudah saya sediakan.
+
+> ⚠️ **Gunakan ESP8266 Flasher favoritmu**, misalnya:
+> - NodeMCU Flasher
+> - ESPTool GUI
+> - Flash Download Tool v3.6
+
+Pastikan kamu memilih port COM yang benar, lalu flash file `.bin` yang sudah tersedia tanpa perlu repot compile ulang!
+
+---
+
+## ⚙️ INGIN MODIFIKASI ATAU RIKUES FITUR?
+
+Saya **tidak mempublikasikan file `.ino` atau source modifikasi langsung**,  
+karena ini adalah pengembangan dari versi original milik [agrimpelhuber](https://github.com/agrimpelhuber/esp8266-tvbgone)
+
+💸 Kamu bisa **menggunakan jasa edit hanya dengan 1000 rupiah saja**,  
+
+📲 **PM saya** jika tertarikk
+
+---
+
 ## 📘 LICENSE
 
 This project is licensed under [MIT License](LICENSE)
