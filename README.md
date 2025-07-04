@@ -79,7 +79,7 @@ https://saweria.co/rcprojectskyproject
 ## 🧨 PENTING UNTUK FLASHING & MODIFIKASI
 
 Jika kamu hanya ingin langsung pakai,  
-silakan **download file firmware `.bin`** dari halaman [📦 Releases](https://github.com/aryaexeuyf/TV-B-GONE/releases/tag/V1.0.0] yang sudah saya sediakan.
+silakan **download file firmware `.bin`** dari halaman [📦 Releases](https://github.com/aryaexeuyf/TV-B-GONE/releases/tag/V1.0.0) yang sudah saya sediakan.
 
 > ⚠️ **Gunakan ESP8266 Flasher favoritmu**, misalnya:
 > - NodeMCU Flasher
